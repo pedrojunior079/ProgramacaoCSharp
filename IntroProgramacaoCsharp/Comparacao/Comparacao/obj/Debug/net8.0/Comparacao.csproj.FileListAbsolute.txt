@@ -1,0 +1,15 @@
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\bin\Debug\net8.0\Comparacao.exe
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\bin\Debug\net8.0\Comparacao.deps.json
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\bin\Debug\net8.0\Comparacao.runtimeconfig.json
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\bin\Debug\net8.0\Comparacao.dll
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\bin\Debug\net8.0\Comparacao.pdb
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\obj\Debug\net8.0\Comparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\obj\Debug\net8.0\Comparacao.AssemblyInfoInputs.cache
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\obj\Debug\net8.0\Comparacao.AssemblyInfo.cs
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\obj\Debug\net8.0\Comparacao.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\obj\Debug\net8.0\Comparacao.sourcelink.json
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\obj\Debug\net8.0\Comparacao.dll
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\obj\Debug\net8.0\refint\Comparacao.dll
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\obj\Debug\net8.0\Comparacao.pdb
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\obj\Debug\net8.0\Comparacao.genruntimeconfig.cache
+C:\GitHub\ProgramacaoCSharp\IntroProgramacaoCsharp\Comparacao\Comparacao\obj\Debug\net8.0\ref\Comparacao.dll
