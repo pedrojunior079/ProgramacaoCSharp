@@ -1,0 +1,15 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\bin\Debug\net8.0\Analise.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\bin\Debug\net8.0\Analise.deps.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\bin\Debug\net8.0\Analise.runtimeconfig.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\bin\Debug\net8.0\Analise.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\bin\Debug\net8.0\Analise.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\obj\Debug\net8.0\Analise.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\obj\Debug\net8.0\Analise.AssemblyInfoInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\obj\Debug\net8.0\Analise.AssemblyInfo.cs
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\obj\Debug\net8.0\Analise.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\obj\Debug\net8.0\Analise.sourcelink.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\obj\Debug\net8.0\Analise.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\obj\Debug\net8.0\refint\Analise.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\obj\Debug\net8.0\Analise.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\obj\Debug\net8.0\Analise.genruntimeconfig.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Analise\Analise\obj\Debug\net8.0\ref\Analise.dll

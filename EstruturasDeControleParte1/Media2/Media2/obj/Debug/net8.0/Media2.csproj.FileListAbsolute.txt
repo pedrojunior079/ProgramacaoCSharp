@@ -1,0 +1,15 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\bin\Debug\net8.0\Media2.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\bin\Debug\net8.0\Media2.deps.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\bin\Debug\net8.0\Media2.runtimeconfig.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\bin\Debug\net8.0\Media2.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\bin\Debug\net8.0\Media2.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\obj\Debug\net8.0\Media2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\obj\Debug\net8.0\Media2.AssemblyInfoInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\obj\Debug\net8.0\Media2.AssemblyInfo.cs
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\obj\Debug\net8.0\Media2.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\obj\Debug\net8.0\Media2.sourcelink.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\obj\Debug\net8.0\Media2.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\obj\Debug\net8.0\refint\Media2.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\obj\Debug\net8.0\Media2.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\obj\Debug\net8.0\Media2.genruntimeconfig.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Media2\Media2\obj\Debug\net8.0\ref\Media2.dll

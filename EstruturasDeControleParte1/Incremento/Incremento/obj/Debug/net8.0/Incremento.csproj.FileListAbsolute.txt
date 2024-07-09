@@ -1,0 +1,15 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\bin\Debug\net8.0\Incremento.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\bin\Debug\net8.0\Incremento.deps.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\bin\Debug\net8.0\Incremento.runtimeconfig.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\bin\Debug\net8.0\Incremento.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\bin\Debug\net8.0\Incremento.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\obj\Debug\net8.0\Incremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\obj\Debug\net8.0\Incremento.AssemblyInfoInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\obj\Debug\net8.0\Incremento.AssemblyInfo.cs
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\obj\Debug\net8.0\Incremento.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\obj\Debug\net8.0\Incremento.sourcelink.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\obj\Debug\net8.0\Incremento.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\obj\Debug\net8.0\refint\Incremento.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\obj\Debug\net8.0\Incremento.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\obj\Debug\net8.0\Incremento.genruntimeconfig.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte1\Incremento\Incremento\obj\Debug\net8.0\ref\Incremento.dll
