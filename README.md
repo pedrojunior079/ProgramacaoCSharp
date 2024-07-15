@@ -1,4 +1,4 @@
 ## Programação C#
 - :computer: Introdução a programação C# 
-- :coputer: Estruturas de Controle: parte 1
-- :conputer: Estruturas de Controle: parte 2 
+- :computer: Estruturas de Controle: parte 1
+- :computer: Estruturas de Controle: parte 2 
