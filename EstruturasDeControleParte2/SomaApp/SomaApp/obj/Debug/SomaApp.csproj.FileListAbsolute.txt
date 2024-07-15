@@ -1,0 +1,10 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SomaApp\SomaApp\bin\Debug\SomaApp.exe.config
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SomaApp\SomaApp\bin\Debug\SomaApp.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SomaApp\SomaApp\bin\Debug\SomaApp.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SomaApp\SomaApp\obj\Debug\SomaApp.csproj.AssemblyReference.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SomaApp\SomaApp\obj\Debug\SomaApp.Form1.resources
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SomaApp\SomaApp\obj\Debug\SomaApp.Properties.Resources.resources
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SomaApp\SomaApp\obj\Debug\SomaApp.csproj.GenerateResource.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SomaApp\SomaApp\obj\Debug\SomaApp.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SomaApp\SomaApp\obj\Debug\SomaApp.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SomaApp\SomaApp\obj\Debug\SomaApp.pdb

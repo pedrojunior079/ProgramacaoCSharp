@@ -1,0 +1,15 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\bin\Debug\net8.0\WhileContador.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\bin\Debug\net8.0\WhileContador.deps.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\bin\Debug\net8.0\WhileContador.runtimeconfig.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\bin\Debug\net8.0\WhileContador.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\bin\Debug\net8.0\WhileContador.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\obj\Debug\net8.0\WhileContador.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\obj\Debug\net8.0\WhileContador.AssemblyInfoInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\obj\Debug\net8.0\WhileContador.AssemblyInfo.cs
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\obj\Debug\net8.0\WhileContador.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\obj\Debug\net8.0\WhileContador.sourcelink.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\obj\Debug\net8.0\WhileContador.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\obj\Debug\net8.0\refint\WhileContador.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\obj\Debug\net8.0\WhileContador.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\obj\Debug\net8.0\WhileContador.genruntimeconfig.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\WhileContador\WhileContador\obj\Debug\net8.0\ref\WhileContador.dll

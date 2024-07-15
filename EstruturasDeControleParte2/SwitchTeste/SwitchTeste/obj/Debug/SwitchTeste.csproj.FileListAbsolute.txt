@@ -1,0 +1,7 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SwitchTeste\SwitchTeste\bin\Debug\SwitchTeste.exe.config
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SwitchTeste\SwitchTeste\bin\Debug\SwitchTeste.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SwitchTeste\SwitchTeste\bin\Debug\SwitchTeste.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SwitchTeste\SwitchTeste\obj\Debug\SwitchTeste.csproj.AssemblyReference.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SwitchTeste\SwitchTeste\obj\Debug\SwitchTeste.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SwitchTeste\SwitchTeste\obj\Debug\SwitchTeste.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\SwitchTeste\SwitchTeste\obj\Debug\SwitchTeste.pdb

@@ -1,0 +1,10 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\JurosCompostosApp\JurosCompostosApp\bin\Debug\JurosCompostosApp.exe.config
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\JurosCompostosApp\JurosCompostosApp\bin\Debug\JurosCompostosApp.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\JurosCompostosApp\JurosCompostosApp\bin\Debug\JurosCompostosApp.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\JurosCompostosApp\JurosCompostosApp\obj\Debug\JurosCompostosApp.csproj.AssemblyReference.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\JurosCompostosApp\JurosCompostosApp\obj\Debug\JurosCompostosApp.Form1.resources
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\JurosCompostosApp\JurosCompostosApp\obj\Debug\JurosCompostosApp.Properties.Resources.resources
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\JurosCompostosApp\JurosCompostosApp\obj\Debug\JurosCompostosApp.csproj.GenerateResource.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\JurosCompostosApp\JurosCompostosApp\obj\Debug\JurosCompostosApp.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\JurosCompostosApp\JurosCompostosApp\obj\Debug\JurosCompostosApp.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\JurosCompostosApp\JurosCompostosApp\obj\Debug\JurosCompostosApp.pdb

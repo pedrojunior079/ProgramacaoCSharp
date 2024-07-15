@@ -1,0 +1,15 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\bin\Debug\net8.0\ForContador.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\bin\Debug\net8.0\ForContador.deps.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\bin\Debug\net8.0\ForContador.runtimeconfig.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\bin\Debug\net8.0\ForContador.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\bin\Debug\net8.0\ForContador.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\obj\Debug\net8.0\ForContador.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\obj\Debug\net8.0\ForContador.AssemblyInfoInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\obj\Debug\net8.0\ForContador.AssemblyInfo.cs
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\obj\Debug\net8.0\ForContador.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\obj\Debug\net8.0\ForContador.sourcelink.json
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\obj\Debug\net8.0\ForContador.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\obj\Debug\net8.0\refint\ForContador.dll
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\obj\Debug\net8.0\ForContador.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\obj\Debug\net8.0\ForContador.genruntimeconfig.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ForContador\ForContador\obj\Debug\net8.0\ref\ForContador.dll

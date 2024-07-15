@@ -1,0 +1,10 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\BreakTesteApp\BreakTesteApp\bin\Debug\BreakTesteApp.exe.config
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\BreakTesteApp\BreakTesteApp\bin\Debug\BreakTesteApp.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\BreakTesteApp\BreakTesteApp\bin\Debug\BreakTesteApp.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\BreakTesteApp\BreakTesteApp\obj\Debug\BreakTesteApp.csproj.AssemblyReference.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\BreakTesteApp\BreakTesteApp\obj\Debug\BreakTesteApp.Form1.resources
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\BreakTesteApp\BreakTesteApp\obj\Debug\BreakTesteApp.Properties.Resources.resources
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\BreakTesteApp\BreakTesteApp\obj\Debug\BreakTesteApp.csproj.GenerateResource.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\BreakTesteApp\BreakTesteApp\obj\Debug\BreakTesteApp.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\BreakTesteApp\BreakTesteApp\obj\Debug\BreakTesteApp.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\BreakTesteApp\BreakTesteApp\obj\Debug\BreakTesteApp.pdb

@@ -1,0 +1,10 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ContinueTesteApp\ContinueTesteApp\bin\Debug\ContinueTesteApp.exe.config
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ContinueTesteApp\ContinueTesteApp\bin\Debug\ContinueTesteApp.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ContinueTesteApp\ContinueTesteApp\bin\Debug\ContinueTesteApp.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ContinueTesteApp\ContinueTesteApp\obj\Debug\ContinueTesteApp.csproj.AssemblyReference.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ContinueTesteApp\ContinueTesteApp\obj\Debug\ContinueTesteApp.Form1.resources
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ContinueTesteApp\ContinueTesteApp\obj\Debug\ContinueTesteApp.Properties.Resources.resources
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ContinueTesteApp\ContinueTesteApp\obj\Debug\ContinueTesteApp.csproj.GenerateResource.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ContinueTesteApp\ContinueTesteApp\obj\Debug\ContinueTesteApp.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ContinueTesteApp\ContinueTesteApp\obj\Debug\ContinueTesteApp.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\ContinueTesteApp\ContinueTesteApp\obj\Debug\ContinueTesteApp.pdb

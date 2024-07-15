@@ -1,0 +1,10 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OpLogicosApp\OpLogicosApp\bin\Debug\OpLogicosApp.exe.config
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OpLogicosApp\OpLogicosApp\bin\Debug\OpLogicosApp.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OpLogicosApp\OpLogicosApp\bin\Debug\OpLogicosApp.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OpLogicosApp\OpLogicosApp\obj\Debug\OpLogicosApp.csproj.AssemblyReference.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OpLogicosApp\OpLogicosApp\obj\Debug\OpLogicosApp.Form1.resources
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OpLogicosApp\OpLogicosApp\obj\Debug\OpLogicosApp.Properties.Resources.resources
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OpLogicosApp\OpLogicosApp\obj\Debug\OpLogicosApp.csproj.GenerateResource.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OpLogicosApp\OpLogicosApp\obj\Debug\OpLogicosApp.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OpLogicosApp\OpLogicosApp\obj\Debug\OpLogicosApp.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OpLogicosApp\OpLogicosApp\obj\Debug\OpLogicosApp.pdb

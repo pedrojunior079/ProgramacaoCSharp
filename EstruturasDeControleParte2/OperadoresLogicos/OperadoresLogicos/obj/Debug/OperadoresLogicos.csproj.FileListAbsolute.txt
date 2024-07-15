@@ -1,0 +1,7 @@
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\GitHub\ProgramacaoCSharp\EstruturasDeControleParte2\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb
